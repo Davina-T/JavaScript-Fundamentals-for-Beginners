@@ -2,12 +2,11 @@
 A mini-course on the fundamentals of not only JavaScript, but programming in general. 
 
 ### Covers:
-
-Variables & Data Types
+Variables and Data Types
 Loops
 Arrays
 Objects
 Functions
-Conditionals - If Statements, switches
+Conditionals
 Events
-Forms & Validation
+Forms and Validation
