@@ -3,10 +3,10 @@ A mini-course on the fundamentals of not only JavaScript, but programming in gen
 
 ### Covers:
 Variables and Data Types
-Loops
-Arrays
-Objects
-Functions
-Conditionals
-Events
-Forms and Validation
+<br>Loops
+<br>Arrays
+<br>Objects
+<br>Functions
+<br>Conditionals
+<br>Events
+<br>Forms and Validation
