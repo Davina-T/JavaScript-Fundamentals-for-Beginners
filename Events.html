@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="style.css"/>
+
+        <!-- <script src="main.js"></script> -->
+
+    </head>
+
+    <body>
+    <!-- <body onload="showDate()"> -->
+        <div class="header">
+            <h1 id="heading">Learning Javascript</h1>
+            <p>With Davina Tan</p>
+        </div>
+
+        <div class="container">
+            <!-- <button onclick="doClick()">Click Me</button> -->
+            <!-- <button onclick="this.innerHTML = 'You Clicked!'">Click Me</button> -->
+            <!-- <button onclick="changeText(this)">Click Me</button> -->
+            <!-- <button onclick="changeText()">Click Me</button> -->
+                <h1 id="time"></h1>
+                <button onclick="showDate()">Show Date</button>
+                <!-- onmouseover, onmouseout-->
+        </div>
+
+        <script>
+            // function doClick() {
+            //     alert('You Clicked!');
+            // }
+
+            // function changeText() {
+            //     var heading = document.getElementById('heading');
+            //     heading.innerHTML = 'You Clicked!';
+            // }
+
+            function showDate() {
+                var time = document.getElementById('time');
+                time.innerHTML = Date();
+            }
+        </script>
+
+    </body>
+</html>
